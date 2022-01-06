@@ -1,5 +1,5 @@
 # Botnet
-*PARA FINS EDUCACIONAIS, NÃO ME RESPONSABILIZO PELO MAL USO!!*
+*PARA FINS EDUCACIONAIS, NÃO ME RESPONSABILIZO PELO MAU USO!!*
 Projeto criado por K0D4XP1, Botnet basicamente um malware de controle remoto, utilizado também para gerar bots para compactuar com ataques futuros.
 Comandos como: cmd, flm, rdp, dwl são utilizados seguidos de "|" e o que você necessita, por exemplo: "cmd|whoami" (SEM ASPAS).
 cmd: gera comandos no terminal da vitima de forma remota.
